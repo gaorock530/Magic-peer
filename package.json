@@ -11,5 +11,8 @@
     "peer"
   ],
   "author": "Magic",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "webrtc-adapter": "^7.2.3"
+  }
 }
